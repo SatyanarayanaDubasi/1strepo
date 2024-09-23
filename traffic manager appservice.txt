@@ -1,0 +1,18 @@
+create web app
+create another web app
+create traffic manager 
+now go to configuration check all the details & save it
+go to endpoints add azure endpoint select app service n priority add
+
+add custom domain all other domain to traffic manager
+go dns zones & create it
+add record set
+app service search for custom domain paste it and copy txt record
+add this in dns zones and validate
+add for another app service 
+
+try check subdomain
+go to vscode and do modifications and check again
+down one app and try again
+
+
